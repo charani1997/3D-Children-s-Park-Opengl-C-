@@ -3,9 +3,6 @@
 #define PI 3.1415927
 
 GLUquadric* quad;
-
-double eyeX = -10, eyeY = 5.0, eyeZ = 100, refX = 0, refY = 0, refZ = 0;
-
 // rotaion varables
 GLfloat animXRot, animYRot, animZRot = 0;
 
